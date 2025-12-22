@@ -14,6 +14,9 @@ Special thanks to lunginspector for giving permission to use Lithium in my Utili
 >[!IMPORTANT]
 > You will need to supervise your device before using this tool. You can do it with [this guide by lunginspector.](https://gist.github.com/lunginspector/cfd1e1f1cd450ec4dcf99e311684b9ab)
 
+>[!IMPORTANT]
+> You have to download and install additional files from Github or using main utility.
+
 >[!WARNING]
 > By using this tool, you agree that I (rooted~us3r) will not be held responsible if any unexpected outcomes occur by using this tool. Use at your own risk.
 
