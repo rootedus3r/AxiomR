@@ -1,5 +1,5 @@
 # ʌxiomR
-Gain more access to your iDevice. Jailbreak is not required. (iOS 16.0+)
+Gain more access to your iDevice. Jailbreak is not required. (iOS 18.0+)
 This utility uses Lithium utility which was taken from lunginspector. If you want to see Lithium's Github page you can [access it here.](https://github.com/lunginspector/Lithium)
 Special thanks to lunginspector for giving permission to use Lithium in my Utility.
 
