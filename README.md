@@ -1,4 +1,7 @@
 # ʌxiomR
+>[!IMPORTANT]
+> I can not now edit AxiomR or fix bugs in it. My iOS version does not support it. May be in future i will be able to edit it.
+
 Gain more access to your iDevice. Jailbreak is not required. (iOS 18.0+)
 This utility uses Lithium utility which was taken from lunginspector. If you want to see Lithium's Github page you can [access it here.](https://github.com/lunginspector/Lithium)
 Special thanks to lunginspector for giving permission to use Lithium in my Utility.
@@ -13,9 +16,6 @@ Special thanks to lunginspector for giving permission to use Lithium in my Utili
 
 >[!IMPORTANT]
 > You will need to supervise your device before using this tool. You can do it with [this guide by lunginspector.](https://gist.github.com/lunginspector/cfd1e1f1cd450ec4dcf99e311684b9ab)
-
->[!IMPORTANT]
-> You have to download and install additional files from Github or using main utility.
 
 >[!WARNING]
 > By using this tool, you agree that I (rooted~us3r) will not be held responsible if any unexpected outcomes occur by using this tool. Use at your own risk.
