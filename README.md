@@ -1,13 +1,13 @@
-# ʌxiomR
+# ʌxiomR ShortCut
 >[!IMPORTANT]
-> I can not now edit AxiomR or fix bugs in it. My iOS version does not support it. May be in future i will be able to edit it.
+> I can not now edit AxiomRSC or fix bugs in it. My iOS version does not support it. May be in future i will be able to edit it.
 
 Gain more access to your iDevice. Jailbreak is not required. (iOS 18.0+)
 This utility uses Lithium utility which was taken from lunginspector. If you want to see Lithium's Github page you can [access it here.](https://github.com/lunginspector/Lithium)
 Special thanks to lunginspector for giving permission to use Lithium in my Utility.
 
 <p align="left">
-  <strong><a href="https://github.com/rootedus3r/AxiomR/releases">Releases</a></strong>
+  <strong><a href="https://github.com/rootedus3r/AxiomRSC/releases">Releases</a></strong>
   •
   <strong><a href="https://discord.gg/hUwxwsbrYn">Discord Server</a></strong>
   •
