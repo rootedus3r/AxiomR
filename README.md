@@ -22,8 +22,9 @@ Special thanks to lunginspector for giving permission to use Lithium in my Utili
 
 
 ### Tested Devices
-* iPhone 11, iOS 26.2
-* iPhone 11, iOS 26.1
+* iPhone 11, iOS 26.2 — Works good
+* iPhone 11, iOS 26.1 — Works good
+* iPhone 11, iOS 17.5.1 — Does not work, required iOS: 18.0+
 * Let me know if it works good or bad on your iDevice!
 
 ### Features
