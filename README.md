@@ -1,4 +1,4 @@
-# ʌxiomR ShortCut
+# AxiomR - ShortCut
 >[!IMPORTANT]
 > I can not now edit AxiomRSC or fix bugs in it. My iOS version does not support it. May be in future i will be able to edit it.
 
